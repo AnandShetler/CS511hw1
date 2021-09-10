@@ -1,0 +1,6 @@
+text \<open>
+Created 2021-09-10, by Anand Shetler
+\<close>
+
+theory CommAnd
+  imports Main
